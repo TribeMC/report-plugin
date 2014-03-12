@@ -1,0 +1,15 @@
+name: Report
+main: V3Rep.main
+version: 1.0
+author: V3lop5
+commands:
+  myreports:
+    description: Meine Reports
+  report:
+    description: Report CMD
+  getreport:
+    description: AdminGetReportCMD
+  maxon:
+    description: MaxONCMD
+  stop:
+    description: Cons only
